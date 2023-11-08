@@ -1,0 +1,1 @@
+INSERT INTO author values ('276aeeaa-6697-4677-b5a0-3adf18c3d6b6')
